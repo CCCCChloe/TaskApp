@@ -10,6 +10,18 @@
     <string name="menu_home">Home</string>
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_login">Login</string>
 
     <string name="home_second">Home Second</string>
+
+    <!--new defined-->
+    <string name="app_new_name">Procrastinator</string>
+    <string name="login_subtitle_01">Get things done</string>
+    <string name="login_subtitle_02">Create to-dos</string>
+    <string name="login_subtitle_03">Start Pomodoro technique</string>
+    <string name="login">Login</string>
+    <string name="signup">Signup</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+
 </resources>
